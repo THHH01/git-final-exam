@@ -5,4 +5,5 @@
 **Ngày làm bài:** 07/10/2025
 
 ## Mục tiêu
-Học Git để quản lý phiên bản hiệu quả, làm việc nhóm dễ dàng, và theo dõi lịch sử thay đổi mã nguồn.
+Học Git để quản lý phiên bản hiệu quả.
+Làm việc nhóm dễ dàng, và theo dõi lịch sử thay đổi mã nguồn.
