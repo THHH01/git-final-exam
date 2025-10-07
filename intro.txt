@@ -1,3 +1,4 @@
+Giới thiệu bản thân:
 Tôi tên là Nguyễn Thái Học
 Tôi hiện đang là sinh viên của trường Đại học Nam Cần Thơ
 Tôi đến từ An Giang
@@ -5,3 +6,9 @@ Tôi sinh năm 2004
 Tôi đang làm bài kiểm tra vất vả
 Sở thích: Đọc sách, chơi thể thao, coi hoạt hình
 Kỹ năng: Phân tích tốt, chơi game hay, thể thao tốt
+Kế hoạch học tập:
+- Học chắc kiến thức nền tảng về Git và GitHub.
+- Thực hành quản lý phiên bản qua các bài tập nhóm.
+- Tìm hiểu CI/CD và áp dụng vào các project nhỏ.
+- Nâng cao kỹ năng lập trình qua các bài toán thực tế.
+- Đọc tài liệu tiếng Anh để cải thiện kỹ năng đọc hiểu.
