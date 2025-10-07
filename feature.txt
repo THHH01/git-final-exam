@@ -1,0 +1,5 @@
+Tính năng mới: Thêm chức năng tìm kiếm người dùng
+Chức năng tìm kiếm cho phép người dùng tìm kiếm bạn bè bằng tên, email.
+Chức năng này giúp nâng cao trải nghiệm người dùng và tiết kiệm thời gian.
+Tính năng này cần kết hợp với API tìm kiếm.
+Dự kiến hoàn thành trong 1 tuần.
